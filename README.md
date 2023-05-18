@@ -53,7 +53,7 @@
   
 ## About The Project 🍪 
 
-![Dashboard](https://github.com/abbabson/COVID-19-Vaccination-UK-main/screenshot.png)
+![Dashboard](https://github.com/abbabson/COVID-19-Vaccination-UK/blob/9658ed47b28d57aa1e6b5825adf9b42bb3c24425/screenshot.png)
 
 Tracking COVID-19 vaccination data across the UK
 <a name="requirement"/>
